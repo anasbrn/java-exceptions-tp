@@ -62,28 +62,8 @@ Cet exercice consiste à créer un système bancaire en Java avec des comptes ba
 ## Cloner le projet
 
    ```bash
-   git clone https://url-de-votre-depot.git
+   git clone https://github.com/anasbrn/java-exceptions-tp.git
    ```
-
-## Compilation et exécution
-
-- **Avec un IDE** : Ouvrez le projet dans votre IDE préféré (par exemple IntelliJ IDEA, Eclipse, etc.) et exécutez le programme directement.
-
-- **Via la ligne de commande** :
-    1. Naviguez dans le répertoire du projet :
-       ```bash
-       cd chemin/vers/le/projet
-       ```
-    2. Compilez les fichiers Java :
-       ```bash
-       javac *.java
-       ```
-    3. Exécutez le programme principal (`Main`) :
-       ```bash
-       java Main
-       ```
-
----
 
 ## Tests
 
@@ -105,4 +85,4 @@ Assurez-vous que chaque exception est correctement gérée et que des messages d
 
 ## Auteurs
 
-- **Abdelmajid BOUSSELHAM**, 2024
+- **Anas BARNOCH**, 2024
