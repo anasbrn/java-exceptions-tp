@@ -1,4 +1,4 @@
-package tp1;
+package excercice1;
 
 public class NombreNegatifException extends Exception {
     private int valeurErronee;

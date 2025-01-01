@@ -1,4 +1,4 @@
-package tp1;
+package excercice1;
 
 public class EntierNaturel {
     private int val;
